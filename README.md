@@ -49,12 +49,6 @@ Open the app in your browser.
 Upload a clear image of a cat or dog.
 The app will display the prediction result with confidence.
 
-## 📌 Sample Output
-<h3>📸 Output Screenshot</h3>
-<p>Here’s how the model predicts:</p>
-<img src="C:\Users\swaro\OneDrive\Pictures\Screenshots\Screenshot (82).png" alt="Model Output" width="600">
-
-
 ## 💡 Future Improvements
 Add more animal categories
 Use transfer learning for higher accuracy
