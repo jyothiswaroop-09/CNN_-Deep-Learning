@@ -50,7 +50,7 @@ Upload a clear image of a cat or dog.
 The app will display the prediction result with confidence.
 
 ## 📌 Sample Output
-<img src="https://i.imgur.com/RtLlEhI.png" alt="Cat Dog Classification App" width="600">
+<img src="C:\Users\swaro\OneDrive\Pictures\Screenshots\Screenshot (82).png">
 
 ## 💡 Future Improvements
 Add more animal categories
