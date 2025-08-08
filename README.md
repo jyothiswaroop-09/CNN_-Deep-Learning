@@ -15,8 +15,7 @@ This project is a simple deep learning web app built using **TensorFlow** and de
 ```
 📦cat-dog-classifier
 ├── app.py # Streamlit application script
-├── model.h5 # Trained CNN model
-├── utils.py # Image preprocessing and prediction functions
+├──cat_dog_model.h5 # Trained CNN model
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── 📁images # Sample cat and dog images for testing
